@@ -1,0 +1,6 @@
+{
+  "name": "test-readme-structures",
+  "version": "1.0.0",
+  "description": "Test repo for PR #304 - recursive README discovery",
+  "main": "src/index.ts"
+}
